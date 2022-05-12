@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "216393223501",
+    "project_id": "final2-52190",
+    "storage_bucket": "final2-52190.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216393223501:android:65ad4ded85dd3d3e997b04",
+        "android_client_info": {
+          "package_name": "com.kindacode.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216393223501-4h26u73120pkd35saoe4ceiopph33342.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8om-j5nGY7H0AVKxXvoQpNzDExh64Qj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216393223501-4h26u73120pkd35saoe4ceiopph33342.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
